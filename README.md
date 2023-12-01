@@ -1,4 +1,4 @@
-# Autoclicker per sito
+# Autoclicker per sito SDM
 
 **Requisiti - WINDOWS**
 
